@@ -20,7 +20,6 @@ description: data
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
 
-
 ### Changed
 
 * Animals are now super cute, all of them.
@@ -60,5 +59,4 @@ description: data
 ### Added
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
-
 
